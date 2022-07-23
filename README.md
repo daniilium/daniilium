@@ -3,9 +3,6 @@
 
 <a href="https://wakatime.com/share/@u1f5a4/c014d88d-37ef-4d63-9ca4-ff04e58e142f.svg" target="_blank"><img src="https://wakatime.com/share/@u1f5a4/c014d88d-37ef-4d63-9ca4-ff04e58e142f.svg" width="600"/></a>
 
-<a href="http://google.com" target="_blank">external link</a>
-
-
 <!--
 **u1f5a4/u1f5a4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
