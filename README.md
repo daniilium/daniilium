@@ -1,7 +1,12 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/d4d82fd4-7c59-47e7-be87-f3e1af2700c6.svg?)](https://wakatime.com/@d4d82fd4-7c59-47e7-be87-f3e1af2700c6)
 
-[![codewars](https://www.codewars.com/users/u1f5a4/badges/micro)](https://www.codewars.com/users/u1f5a4)
+[![codewars](https://www.codewars.com/users/u1f5a4/badges/small)](https://www.codewars.com/users/u1f5a4)
+
+[![leetcode](https://badges.peiyuan.ch/leetcode/u1f5a4/name)](https://www.codewars.com/users/u1f5a4)
+[![leetcode](https://badges.peiyuan.ch/leetcode/u1f5a4/ranking)](https://www.codewars.com/users/u1f5a4)
+[![leetcode](https://badges.peiyuan.ch/leetcode/u1f5a4/solved?difficulty=all)](https://www.codewars.com/users/u1f5a4)
+
 
 <a href="https://wakatime.com/share/@u1f5a4/c014d88d-37ef-4d63-9ca4-ff04e58e142f.svg" target="_blank"><img src="https://wakatime.com/share/@u1f5a4/c014d88d-37ef-4d63-9ca4-ff04e58e142f.svg" width="600"/></a>
 
